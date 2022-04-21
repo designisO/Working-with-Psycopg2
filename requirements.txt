@@ -1,0 +1,4 @@
+colorama==0.4.4
+loguru==0.6.0
+psycopg2==2.9.3
+win32-setctime==1.1.0
