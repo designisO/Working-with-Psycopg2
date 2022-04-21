@@ -2,7 +2,7 @@
 hostname = 'localhost'
 dbname = 'obioscorp'
 username = 'postgres'
-pwd = 'dataisnow'
+pwd = ''
 port_id = 5432
 
 import psycopg2
